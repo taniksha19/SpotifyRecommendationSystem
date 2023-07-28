@@ -1,0 +1,5 @@
+client_id = '84a918187a0d4fc5a66dd8e062fff899'
+client_secret = '9f4fea70be164dd7bb5ffcf653b33d29'
+redirect_uri='http://localhost:8080/callback/'
+username = 'egtrwnupl4nlhpsxae4aecqno'
+scope = 'user-top-read playlist-modify-private playlist-modify-public'
